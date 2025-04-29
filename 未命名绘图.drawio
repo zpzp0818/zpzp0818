@@ -45,6 +45,9 @@
             <mxPoint x="770" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="REG8_7wBMsoRXyQNgOD0-4" target="REG8_7wBMsoRXyQNgOD0-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="REG8_7wBMsoRXyQNgOD0-4" value="IPlayer&lt;div&gt;ATL::CWindowImpl&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="570" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -103,6 +106,12 @@
         </mxCell>
         <mxCell id="REG8_7wBMsoRXyQNgOD0-46" value="ToolbarHelper" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="795" y="10" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-52" value="VideoHelper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-54" value="PlayerEventHelper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
