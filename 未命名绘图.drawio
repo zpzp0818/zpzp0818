@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="REG8_7wBMsoRXyQNgOD0-1" value="PlayerManager" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-1" value="PlayerManager&lt;div&gt;(Golbal&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFE6CC;fillColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="30" y="10" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="REG8_7wBMsoRXyQNgOD0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="REG8_7wBMsoRXyQNgOD0-3" target="REG8_7wBMsoRXyQNgOD0-7">
@@ -45,7 +45,7 @@
             <mxPoint x="770" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="REG8_7wBMsoRXyQNgOD0-4" value="IPlayer&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-4" value="IPlayer&lt;div&gt;ATL::CWindowImpl&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="570" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REG8_7wBMsoRXyQNgOD0-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="REG8_7wBMsoRXyQNgOD0-6" target="REG8_7wBMsoRXyQNgOD0-4">
@@ -62,7 +62,7 @@
         <mxCell id="REG8_7wBMsoRXyQNgOD0-7" value="FilePlayerWnd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="REG8_7wBMsoRXyQNgOD0-17" value="WebsocketServer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-17" value="WebsocketServer" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="210" y="10" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="REG8_7wBMsoRXyQNgOD0-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="REG8_7wBMsoRXyQNgOD0-1">
@@ -72,10 +72,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="REG8_7wBMsoRXyQNgOD0-19" value="CMainFrame&lt;div&gt;（playerMode）&lt;/div&gt;&lt;div&gt;(PlayerUI)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-19" value="CMainFrame&lt;div&gt;（playerMode）&lt;/div&gt;&lt;div&gt;(PlayerUI)&lt;/div&gt;&lt;div&gt;ParentHwnd&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="480" y="10" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="REG8_7wBMsoRXyQNgOD0-20" value="Chrome Legacy Window&lt;div&gt;(Player)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-20" value="Chrome Legacy Window&lt;div&gt;(Player)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="646" y="10" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="REG8_7wBMsoRXyQNgOD0-24" value="parent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -101,7 +101,7 @@
         <mxCell id="REG8_7wBMsoRXyQNgOD0-41" value="PlayerControl" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="220" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="REG8_7wBMsoRXyQNgOD0-46" value="ToolbarHelper" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-46" value="ToolbarHelper" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="795" y="10" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
