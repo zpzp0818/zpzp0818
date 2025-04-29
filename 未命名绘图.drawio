@@ -114,11 +114,17 @@
         <mxCell id="REG8_7wBMsoRXyQNgOD0-46" value="ToolbarHelper" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="795" y="10" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="REG8_7wBMsoRXyQNgOD0-52" target="REG8_7wBMsoRXyQNgOD0-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="REG8_7wBMsoRXyQNgOD0-52" value="VideoHelper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REG8_7wBMsoRXyQNgOD0-54" value="PlayerEventHelper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-58" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Object:Type&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;std::map&amp;lt;std::string, VideoItem *&amp;gt; m_videoMap&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="570" width="280" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
