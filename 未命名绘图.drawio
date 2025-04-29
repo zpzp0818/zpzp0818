@@ -215,6 +215,9 @@
         <mxCell id="REG8_7wBMsoRXyQNgOD0-95" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Object:Type&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;AudioPlaybackEngine *m_audioController&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;音量柱&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="10" y="660" width="280" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-98" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;Object:Type&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;virtual DWORD ThreadProc() -- 渲染线程&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;std::unique_ptr&amp;lt;std::thread &amp;gt; m_videoFrameThread -- 获取数据现场&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="370" width="280" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
