@@ -141,11 +141,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="REG8_7wBMsoRXyQNgOD0-60" target="REG8_7wBMsoRXyQNgOD0-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="REG8_7wBMsoRXyQNgOD0-60" value="VideoItem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REG8_7wBMsoRXyQNgOD0-64" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Object:Type&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;AddVideoAction m_streamInfo;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;VideoInfo m_videoInfo;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;RoiTrackHelper m_roiTrackHelper&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="810" y="530" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="REG8_7wBMsoRXyQNgOD0-66" value="PlayerControlInfo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
